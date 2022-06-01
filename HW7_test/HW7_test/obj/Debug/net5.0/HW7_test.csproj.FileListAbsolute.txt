@@ -1,0 +1,16 @@
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\bin\Debug\net5.0\HW7_test.exe
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\bin\Debug\net5.0\HW7_test.deps.json
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\bin\Debug\net5.0\HW7_test.runtimeconfig.json
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\bin\Debug\net5.0\HW7_test.runtimeconfig.dev.json
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\bin\Debug\net5.0\HW7_test.dll
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\bin\Debug\net5.0\HW7_test.pdb
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\obj\Debug\net5.0\HW7_test.csproj.AssemblyReference.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\obj\Debug\net5.0\HW7_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\obj\Debug\net5.0\HW7_test.AssemblyInfoInputs.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\obj\Debug\net5.0\HW7_test.AssemblyInfo.cs
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\obj\Debug\net5.0\HW7_test.csproj.CoreCompileInputs.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\obj\Debug\net5.0\HW7_test.dll
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\obj\Debug\net5.0\refint\HW7_test.dll
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\obj\Debug\net5.0\HW7_test.pdb
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\obj\Debug\net5.0\HW7_test.genruntimeconfig.cache
+C:\Users\feyny\OneDrive\Desktop\C#\SkillBox\Lesson7\HW7_test\HW7_test\obj\Debug\net5.0\ref\HW7_test.dll
